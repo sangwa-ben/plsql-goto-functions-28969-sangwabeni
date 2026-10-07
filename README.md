@@ -64,10 +64,6 @@ plsql-goto-functions-28969-benx/
 - The functions are created as stored database objects and then checked through SQL and PL/SQL test blocks.
 - This assignment also helps prepare for the upcoming quiz on GOTO statements and PL/SQL functions.
 
-## AI usage note
-
-I used GitHub Copilot to help organize the SQL scripts, review the logic, and format the documentation. I then checked the final version and adjusted it to match the assignment requirements.
-
 ## Student
 Name: Benx | Student ID: 28969 | Course: Database Development with PL/SQL (INSY 8311)
 
