@@ -1,0 +1,9 @@
+# Oracle and local development artifacts
+*.log
+*.lst
+*.bak
+*.tmp
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
