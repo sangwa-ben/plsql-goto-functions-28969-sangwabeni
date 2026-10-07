@@ -12,12 +12,12 @@ begin
    end if;
 
    << positive_label >> dbms_output.put_line('The number '
-                                             || v_input_number || ' is positive.');
+     || v_input_number || ' is positive.');
    goto finish;
    << negative_label >> dbms_output.put_line('The number '
-                                             || v_input_number || ' is negative.');
+        || v_input_number || ' is negative.');
    goto finish;
    << zero_label >> dbms_output.put_line('The number '
-                                         || v_input_number || ' is zero.');
+       || v_input_number || ' is zero.');
    << finish >> null;
 end;

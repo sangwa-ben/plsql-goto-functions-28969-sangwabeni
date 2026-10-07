@@ -18,4 +18,3 @@ begin
    << strong_salary >> dbms_output.put_line('Review: Salary is strong and within the target range.');
    << final_label >> null;
 end;
-/

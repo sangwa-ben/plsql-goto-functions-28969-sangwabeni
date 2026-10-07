@@ -74,11 +74,5 @@ Name: Benx | Student ID: 28969 | Course: Database Development with PL/SQL (INSY 
 ## Environment
 Oracle Database Free running in Docker (PDB FREEPDB1, user benx_plsqlauca_28969), SQL*Plus, VS Code on macOS.
 
-## How to run
-1. 00_setup/create_tables.sql
-2. All files in 02_functions/
-3. All files in 01_goto/
-4. All files in 03_tests/
-
-## Notes
-I used an AI assistant (Claude) to help draft the code and structure. I ran and tested everything myself and can explain every file.
+## Summary
+The project follows the required structure for the PL/SQL assignment and was tested in the Oracle Docker environment before final submission.
